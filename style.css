@@ -1,0 +1,58 @@
+.copy_right_footer{
+    color: black;
+    font-size: 18px;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    background-color: deepskyblue;
+    line-height: 3;
+    text-shadow: 5px 5px 5px gray;
+    margin-right: 100px;
+}
+
+body
+{
+  color: white;
+  background: deepskyblue;
+}
+span
+{
+  font-size: 30px;
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+  font-family: 'Russo One', sans-serif;
+}
+label{
+  font-size: 14px;
+  color: #62b33a;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: white;
+}
+#p1{
+    font-family: 'Lobster', cursive;
+}
+#p2{
+    font-family: 'Pacifico', cursive;
+    font-size: 23px;
+}
+
+.heading_div2{
+    font-family: 'Russo One', sans-serif;
+}
